@@ -1,0 +1,33 @@
+.header {
+   
+    background: url(http://www.chitech.org/wp-content/uploads/2012/09/students-ChiTech_003-e1352119018914.jpg) no-repeat center center scroll;
+}
+
+#slic {
+	text-align: center;
+    }
+
+#mystuff{
+	color: #ffffff ;
+}
+.scale{
+  width: 10% ;
+}
+
+.bg-primary {
+    background-color: #d6d8fb;
+}
+.online-users {
+height: 550px;
+color:#3366ff;
+}
+.media-body {
+	color: black;
+}
+h4{
+	font-family: sans-serif;
+	color:#3366ff;
+}
+.gamescontainer{
+	background-color:#00acff !important;
+}
